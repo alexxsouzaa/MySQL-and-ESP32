@@ -15,7 +15,7 @@ Created in 04/05/2023.
 #include <MySQL_Cursor.h>      // Biblioteca do MySQL.
 #include <MySQL_Connection.h>  // Biblioteca do MySQL.
 
-  Adafruit_BMP280 bmp;
+Adafruit_BMP280 bmp;
 AHT10 myAHT20(AHT10_ADDRESS_0X38, AHT20_SENSOR);
 
 IPAddress server_addr(85, 10, 205, 173);  //endereço IP do servidor MySQL.
