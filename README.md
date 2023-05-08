@@ -45,7 +45,10 @@ Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE para 
 
 # Inagens
 <br>
-![WhatsApp Image 2023-05-08 at 14 45 09](https://user-images.githubusercontent.com/132787362/236894004-9be251c8-03ad-4bf9-b062-cf0cc4826939.jpeg)
-![WhatsApp Image 2023-05-08 at 14 45 09 (1)](https://user-images.githubusercontent.com/132787362/236894045-d4afc0ff-6b35-46bb-93fb-4f0910cb5f49.jpeg)
-![WhatsApp Image 2023-05-08 at 14 45 09 (2)](https://user-images.githubusercontent.com/132787362/236894070-c1f32ab1-4819-4098-b90b-57a64d7f7d24.jpeg)
-![WhatsApp Image 2023-05-08 at 14 45 08](https://user-images.githubusercontent.com/132787362/236894072-3f1eda92-33de-4a2a-bda3-72863b2a12ef.jpeg)
+
+![2](https://user-images.githubusercontent.com/132787362/236897249-62541e56-f180-4cb0-a732-c56ad49a7ac1.jpeg)
+
+![1](https://user-images.githubusercontent.com/132787362/236897270-e773b54a-fbf9-4f5a-9658-84343cbc0a2c.jpeg)
+
+![4](https://user-images.githubusercontent.com/132787362/236897286-36905d6f-454c-4a56-bb52-fed4029ada47.jpeg)
+
