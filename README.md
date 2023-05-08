@@ -11,20 +11,20 @@ IDE do Arduino
 # Bibliotecas
 As seguintes bibliotecas são necessárias para este projeto:
 
-Adafruit BME280 Library (https://github.com/adafruit/Adafruit_BME280_Library)
+Adafruit BME280 Library (https://github.com/adafruit/Adafruit_BME280_Library)<br>
 MySQL Connector Arduino Library (https://github.com/ChuckBell/MySQL_Connector_Arduino)
 
 # Conexão
 Conecte o sensor BME280 ao ESP32 conforme o seguinte diagrama:
 
-BME280	ESP32
-VIN	3.3V
-GND	GND
-SCL	GPIO22
-SDA	GPIO21
+BME280 - ESP32<br>
+VIN - 3.3V<br>
+GND - GND<br>
+SCL - GPIO22<br>
+SDA - GPIO21<br>
 
 # Configuração do servidor MySQL
-Este exemplo usa um servidor MySQL hospedado no db4free.net. Você precisa se registrar para obter as credenciais necessárias para acessar o servidor.
+Este exemplo usa um servidor MySQL hospedado no db4free.net. Você precisa se registrar para obter as credenciais necessárias para acessar o servidor.<br>
 
 Após o registro, acesse o painel do phpMyAdmin e crie um novo banco de dados chamado "dados_sensor". Em seguida, crie uma nova tabela chamada "temperatura" com três colunas: id_sensor, temperatura e data_hora.
 
