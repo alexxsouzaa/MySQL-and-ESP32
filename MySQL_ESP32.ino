@@ -18,7 +18,7 @@ char password[] = "XXXXXXXXXXXXXX";       //senha do usuário do MySQL.
 char ssid_wifi[] = "XXXXXXXXXXXXXX";      //nome da rede WiFi.
 char senha_wifi[] = "XXXXXXXXXXXXXX.";    //senha da rede WiFi.
 
-//char INSERT_DATA[] = "INSERT INTO  NOME_DO_BANCO_DE_DADOS.NOME_DA_TABELA (VARIAVEL1, VARIALVE2) VALUES (%d,%s)";
+//char INSERT_DATA[] = "INSERT INTO  NOME_DO_BANCO_DE_DADOS.NOME_DA_TABELA (COLUNA1, COLUNA2) VALUES (%d,%s)";
 char INSERT_DATA[] = "INSERT INTO  esp32_db.temperatura (ID_SENSOR, temperatura) VALUES (%d,%s)";
 
 int id = 1;         //  Variavel de Identifição.
