@@ -40,8 +40,6 @@ Sinta-se à vontade para enviar sugestões de melhorias ou correções de bugs n
 # Licença
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
 <br>
-<br>
-<br>
 
 # Inagens
 <br>
