@@ -36,9 +36,6 @@ Este é apenas um exemplo de como enviar dados de um sensor para um banco de dad
 
 # Contribuindo
 Sinta-se à vontade para enviar sugestões de melhorias ou correções de bugs neste projeto. Abra um problema ou envie uma solicitação de recebimento para contribuir com o código.
-
-# Licença
-Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
 <br>
 
 # Inagens
