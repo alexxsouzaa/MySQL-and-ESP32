@@ -38,7 +38,7 @@ Este é apenas um exemplo de como enviar dados de um sensor para um banco de dad
 Sinta-se à vontade para enviar sugestões de melhorias ou correções de bugs neste projeto. Abra um problema ou envie uma solicitação de recebimento para contribuir com o código.
 <br>
 
-# Inagens
+# Imagens
 <br>
 
 ![2](https://user-images.githubusercontent.com/132787362/236897249-62541e56-f180-4cb0-a732-c56ad49a7ac1.jpeg)
