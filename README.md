@@ -3,9 +3,9 @@
 Este é um projeto de exemplo que mostra como enviar dados do sensor BME280 para um banco de dados MySQL usando um microcontrolador ESP32. O projeto é escrito em Arduino Framework e foi testado usando o IDE do Arduino.
 
 # Requisitos
-Microcontrolador ESP32 (ex: ESP-WROOM-32)
-Sensor BME280
-Servidor MySQL (usamos o db4free.net para fins de exemplo)
+Microcontrolador ESP32 (ex: ESP-WROOM-32)<br>
+Sensor BME280<br>
+Servidor MySQL (usamos o db4free.net para fins de exemplo)<br>
 IDE do Arduino
 
 # Bibliotecas
