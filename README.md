@@ -1,7 +1,6 @@
-# MySQL-and-ESP32
+# MySQL and ESP32
 
-![WhatsApp Image 2023-05-05 at 20 06 56](https://user-images.githubusercontent.com/132787362/236647628-37123fb6-a998-4662-ae7e-58b6936ff52d.jpeg)
-
-![WhatsApp Image 2023-05-05 at 20 06 56 (1)](https://user-images.githubusercontent.com/132787362/236647633-b44da8db-3dec-4b62-b08f-01c7a3bbee09.jpeg)
-
-![WhatsApp Image 2023-05-05 at 20 06 56 (2)](https://user-images.githubusercontent.com/132787362/236647634-0cfb5480-5bfa-4248-879d-5bb9ef4635f6.jpeg)
+![WhatsApp Image 2023-05-08 at 14 45 09](https://user-images.githubusercontent.com/132787362/236894004-9be251c8-03ad-4bf9-b062-cf0cc4826939.jpeg)
+![WhatsApp Image 2023-05-08 at 14 45 09 (1)](https://user-images.githubusercontent.com/132787362/236894045-d4afc0ff-6b35-46bb-93fb-4f0910cb5f49.jpeg)
+![WhatsApp Image 2023-05-08 at 14 45 09 (2)](https://user-images.githubusercontent.com/132787362/236894070-c1f32ab1-4819-4098-b90b-57a64d7f7d24.jpeg)
+![WhatsApp Image 2023-05-08 at 14 45 08](https://user-images.githubusercontent.com/132787362/236894072-3f1eda92-33de-4a2a-bda3-72863b2a12ef.jpeg)
